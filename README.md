@@ -1,4 +1,4 @@
-Simple ToDo List using React, Redux, Firebase!
+<h2>Simple ToDo List using React, Redux, Firebase!</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
